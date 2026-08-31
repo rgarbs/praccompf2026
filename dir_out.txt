@@ -1,0 +1,17 @@
+total 3144
+drwxr-xr-x   8 bekahgarbarino  staff      256 Aug 26 17:56 .
+drwxr-x---+ 30 bekahgarbarino  staff      960 Aug 26 18:01 ..
+drwxr-xr-x  12 bekahgarbarino  staff      384 Aug 24 17:25 .git
+drwxr-xr-x@ 18 bekahgarbarino  staff      576 Aug 24 18:06 data
+-rw-r--r--   1 bekahgarbarino  staff        0 Aug 26 18:05 dir_out.txt
+-rw-r--r--@  1 bekahgarbarino  staff  1604933 Aug 24 17:52 PracComp_Data4BashExample.zip
+-rw-r--r--   1 bekahgarbarino  staff       16 Aug 19 17:28 README.md
+drwxr-xr-x   3 bekahgarbarino  staff       96 Aug 26 17:34 scripts
+
+
+Above are the directory listings for this folder
+/Users/bekahgarbarino/praccompf2026
+
+
+Right now is is:
+Wed Aug 26 18:05:58 EDT 2026
