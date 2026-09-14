@@ -1,6 +1,9 @@
 #! /usr/bin/env python3
 
-DNASeq = input("Enter DNA sequence: ")
+import sys
+
+#DNASeq = input("Enter DNA sequence: ")
+DNASeq = sys.argv[1]
 DNASeq = DNASeq.upper()
 DNASeq = DNASeq.replace(" ", "")
 
@@ -29,3 +32,12 @@ if SeqLength >= 14:
 else:
 	MeltTempShort = (4 * TotalStrong) + (2 * TotalWeak)
 	print("\nTm Short (<14): "+f'{MeltTempShort:.4f}' + " C\n")
+
+BaseList="ATCG"
+
+for Base in BaseList: #example for loop
+	Percent = 100 * DNASeq.count(Base)/SeqLength
+	#print(Base+" "+str(Percent))
+	print("%s: %4.1f" % (Base, Percent))
+
+
