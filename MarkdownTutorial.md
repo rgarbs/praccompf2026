@@ -19,7 +19,7 @@ __This text will be bolded__
 _You **can** combine them_
 
 
-##LISTS
+## LISTS
 
 Unordered
 * Item 1
@@ -33,3 +33,15 @@ Ordered
 3. Item 3
 	* Item 3a
 	* Item 3b
+
+## LINKS
+
+http://brewerlab.net - automatic
+
+[Brewer Lab](http://brewerlab.net)
+
+
+## IMAGES
+
+![New York Rangers](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaP3OMXmNWCm-wWEDXw9FmSGectZgP427OVM5gcyt9KPyZ2-5N_zjP9dZa0ugCnkXlLUJV&s)
+
