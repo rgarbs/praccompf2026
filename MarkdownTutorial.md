@@ -88,5 +88,5 @@ Content column 1 row 2 | Content column 2 row 2
 ## EMOJI
 
 :spider:
-:smiling with halo:
-:with tongue:
+:smiling face with halo:
+:face with tongue:
