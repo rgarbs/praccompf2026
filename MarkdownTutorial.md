@@ -45,3 +45,13 @@ http://brewerlab.net - automatic
 
 ![New York Rangers](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaP3OMXmNWCm-wWEDXw9FmSGectZgP427OVM5gcyt9KPyZ2-5N_zjP9dZa0ugCnkXlLUJV&s)
 
+
+## BACKSLASH ESCAPES
+
+\*Literal asterasks\*
+
+## FENCED CODE BLOCKS
+
+```
+echo "Hello"
+```
