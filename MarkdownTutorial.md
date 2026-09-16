@@ -55,3 +55,15 @@ http://brewerlab.net - automatic
 ```
 echo "Hello"
 ```
+
+- Python Example
+
+```python
+print("Hello")
+```
+
+- R example
+
+```r
+x <- 4^2
+```
