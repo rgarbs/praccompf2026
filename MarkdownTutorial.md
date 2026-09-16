@@ -52,7 +52,7 @@ http://brewerlab.net - automatic
 
 ## FENCED CODE BLOCKS
 
--Generic
+- Generic
 
 ```
 echo "Hello"
