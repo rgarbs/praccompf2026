@@ -52,6 +52,8 @@ http://brewerlab.net - automatic
 
 ## FENCED CODE BLOCKS
 
+-Generic
+
 ```
 echo "Hello"
 ```
